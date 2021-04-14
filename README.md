@@ -1,9 +1,9 @@
 # Treinamento de Algoritmos
 
-<img src = "https://img.shields.io/badge/LucasKrzy-Treinamento-blue">  <img src = "https://img.shields.io/badge/Algoritmos-Portugol-orange">
+<img src = "https://img.shields.io/badge/Foursys-Treinamento-orange"> <img src = "https://img.shields.io/badge/Dev-LucasKrzy-blue">   <img src = "https://img.shields.io/badge/Algoritmos-Portugol-orange">
 ## Descrição 📄
 
- Esse projeto contem uma lista de exercícios de algoritmos desenvolvidos duranto o meu processo como Trainee na empresa [Foursys](https://www.foursys.com.br) sobre a orientação do [Diego Munhoz](https://github.com/diegomunhoz) . Exercícios desenvolvidos utilizando a linguagem de programação *Portugol* 📙.
+ Esse projeto contem uma lista de exercícios de algoritmos desenvolvidos durante o meu processo como Trainee na empresa [Foursys](https://www.foursys.com.br), sobre a orientação do [Diego Munhoz](https://github.com/diegomunhoz). Exercícios desenvolvidos utilizando a linguagem de programação *Portugol* 📙.
 
  ## Status do Projeto ⏳
 - Projeto concluído.
